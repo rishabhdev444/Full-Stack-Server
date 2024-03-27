@@ -16,6 +16,6 @@
     "port":"3306"
   },
   "production": {
-    "use_env_variable":"mysql://root:root@localhost:3306/nodetut",
+    "use_env_variable":"mysql://root:root@localhost:3306/nodetut"
   }
 }
