@@ -23,7 +23,7 @@
     "host":"localhost",
     "dialect":"mysql",
     "dialectOptions": {
-      "socketPath": "MySQL"
+      "socketPath": "/var/lib/mysql/mysql.sock"
     }
   }
 }
