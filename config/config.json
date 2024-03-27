@@ -23,7 +23,7 @@
     "host":"localhost",
     "dialect":"mysql",
     "dialectOptions": {
-      "socketPath": "/var/lib/mysqld/mysqld.sock"
+      "socketPath": "/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock"
     }
   }
 }
