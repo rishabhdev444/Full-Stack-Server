@@ -19,9 +19,6 @@
     "use_env_variable":"mysql://root:root@localhost:3306/nodetut",
     "username": "root",
     "password": "root",
-    "database": "nodetut",
-    "host": "127.0.0.1",
-    "dialect": "mysql",
-    "port":"3306"
+    "database": "nodetut"
   }
 }
