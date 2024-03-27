@@ -20,6 +20,7 @@
     "username": "root",
     "password": "root",
     "database": "nodetut",
+    "host":"localhost",
     "dialect":"mysql"
   }
 }
