@@ -19,6 +19,7 @@
     "use_env_variable":"mysql://root:root@localhost:3306/nodetut",
     "username": "root",
     "password": "root",
-    "database": "nodetut"
+    "database": "nodetut",
+    "dialect":"mysql"
   }
 }
